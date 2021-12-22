@@ -1,0 +1,52 @@
+header, body, section, footer, #page-content, #cat-nav,:after, :before {
+    background-color: rgb(32, 32, 32) !important;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, span,
+#logo-nav .nav-icon .dd-menu span:before, .copyright, .login-description
+{
+	color: rgb(218, 218, 218) !important;
+}
+#search-2, #search-btn .search-block input.searchform-submit {
+	background-color: rgb(218, 218, 218) !important;
+    color: rgb(32, 32, 32) !important;
+}
+a {
+    color: rgb(218, 218, 218) !important;
+	background: rgb(32, 32, 32) !important;
+	background-color: rgb(32, 32, 32) !important;
+}
+.pagination li span, .pagination li a, .pagination ul span.pagination_dotts, .pagination ul li.next a {
+	background-color: rgb(32, 32, 32) !important;
+	color: rgb(218, 218, 218) !important;
+}
+.film-item .film-item-inner, #upload-btn a.button {
+    bottom-bottom-color: rgb(32, 32, 32) !important;	
+    bottom-bottom: rgb(32, 32, 32) !important;
+    border-bottom: rgb(32, 32, 32) !important;
+    border: rgb(32, 32, 32) !important;
+}
+input#searchform-field-white {
+    background-color: rgb(218, 218, 218) !important;
+}
+#search-btn .search-block input.searchform-submit, #search-btn .s-form #search-2 {
+    background-color: rgb(218, 218, 218);
+    color: rgb(32, 32, 32)
+}
+.bg-grey {
+    background-color: rgb(32, 32, 32) !important;
+}
+form button, form input[type="submit"] {
+	background-color: rgb(32, 32, 32) !important;
+}
+section#item-main-stats .left-side {
+	background-color: rgb(32, 32, 32) !important;
+}
+nav.item-nav ul.b-list li {
+    border-right: none !important;
+}
+label {
+    color: rgb(218, 218, 218) !important;
+}
+.fluid_video_wrapper :after, .fluid_video_wrapper :before {
+    background-color: inherit !important;
+}
