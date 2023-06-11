@@ -4,3 +4,9 @@
 .thumb-list--promoted-video-banner {
     width: auto !important; 
 }
+.xplayer-background-top {
+    display: none;
+}
+.xplayer-background-bottom {
+    display: none;
+}
