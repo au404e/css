@@ -2,17 +2,18 @@
     top: 185px;
 	max-height: 25px;
 }
-/*
-.album .album-bottom-right, .album .album-bottom-user {
-	bottom: -30px;
-}
-*/
 .col-lg-2 {
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 .album .album-bottom-user, .album .album-bottom-views {
 	max-width: 40%;
 }
 .lg-toolbar.lg-group {
 	background: transparent;
+}
+.album-link .album-bottom-right, .album-link .album-bottom-views {
+    bottom: -20px;
+}
+.album-title {
+    margin-top: 15px;
 }
