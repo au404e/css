@@ -16,7 +16,7 @@ a.button:link, a.button:hover, a.button:visited, a.button:active,
     border: 1px solid;
     color: #666;
 }
-.postbit_buttons > a:link, .postbit_buttons > a:hover, .postbit_buttons > a:visited, .postbit_buttons > a:active {
+.postbit_buttons > a:link, .postbit_buttons > a:hover, .postbit_buttons > a:visited, .postbit_buttons > a:active, .tfoot {
 	background: rgb(53, 53, 53) !important;
 	color: #666;
 }
