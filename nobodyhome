@@ -1,0 +1,27 @@
+#logo, .lower, #content, #footer .upper, .tborder, .post .post_author, .post_controls {
+	background: rgb(53, 53, 53) !important;
+
+}
+#panel .lower a:link, #panel .lower a:visited, #panel .lower a:hover,
+#panel .lower a:active, .smalltext,#footer a:link, #footer a:visited,
+#footer a:hover, #footer a:active, .post .post_head span.post_date,
+.post .post_head span.edited_post, .post .post_head span.edited_post a {
+    color: #666;
+}
+.navigation .active, .pagination, .pagination .pagination_current,
+a.button:link, a.button:hover, a.button:visited, a.button:active,
+#panel .upper {
+    color: #666;
+}
+.pagination a {
+    background: inherit;
+    border: 1px solid;
+    color: #666;
+}
+.postbit_buttons > a:link, .postbit_buttons > a:hover, .postbit_buttons > a:visited, .postbit_buttons > a:active {
+	background: rgb(53, 53, 53) !important;
+	color: #666;
+}
+.post.classic .post_author, .post .post_head {
+	border: none;
+}
