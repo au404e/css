@@ -5,9 +5,7 @@
 #panel .lower a:link, #panel .lower a:visited, #panel .lower a:hover,
 #panel .lower a:active, .smalltext,#footer a:link, #footer a:visited,
 #footer a:hover, #footer a:active, .post .post_head span.post_date,
-.post .post_head span.edited_post, .post .post_head span.edited_post a {
-    color: #666;
-}
+.post .post_head span.edited_post, .post .post_head span.edited_post a,
 .navigation .active, .pagination, .pagination .pagination_current,
 a.button:link, a.button:hover, a.button:visited, a.button:active,
 #panel .upper, table {
