@@ -22,6 +22,7 @@ a.button:link, a.button:hover, a.button:visited, a.button:active,
 	background: rgb(53, 53, 53) !important;
 	color: #666;
 }
-.post.classic .post_author, .post .post_head {
+.post.classic .post_author, .post .post_head,
+.post.classic .post_author div.author_statistics {
 	border: none;
 }
