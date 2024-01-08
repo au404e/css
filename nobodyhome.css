@@ -10,7 +10,7 @@
 }
 .navigation .active, .pagination, .pagination .pagination_current,
 a.button:link, a.button:hover, a.button:visited, a.button:active,
-#panel .upper {
+#panel .upper, table {
     color: #666;
 }
 .pagination a {
