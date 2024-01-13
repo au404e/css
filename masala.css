@@ -1,0 +1,6 @@
+.ui-container, .video_list, .video {
+	background: rgb(53, 53, 53) !important;
+}
+.title, .pagination li a, .pagination li a.current, .pagination li a:hover {
+	color: white !important;
+}
